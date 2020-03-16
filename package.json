@@ -1,0 +1,21 @@
+{
+  "name": "bamazon-sales",
+  "version": "1.0.0",
+  "description": "This is a sales department app that takes in orders from customers and deplete stocks from the store's inventory",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sauda281/bamazon-sales"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
