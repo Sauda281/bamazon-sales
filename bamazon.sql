@@ -24,6 +24,6 @@ VALUES (100, "Towel", "bath", 7.99, 30),
        (718, "Microwave","Kitchen", 98.50, 50),
        (860, "Hand Sanitizer","Health", 3.50, 25),
        (980, "candle","Home Goods", 5.49, 17),
-       (1023, "lotion","", 11.86, 20)
+       (1023, "bouque","flower", 11.86, 20)
        
        
