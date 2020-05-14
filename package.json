@@ -4,7 +4,10 @@
   "description": "This is a sales department app that takes in orders from customers and deplete stocks from the store's inventory",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.3"
+    "cli-table": "^0.3.1",
+    "express": "^4.16.3",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
   },
   "repository": {
     "type": "git",

@@ -1,5 +1,5 @@
 var mysql = require("mysql");
-var inquirer = require("inquirere");
+var inquirer = require("inquirer");
 var table = require ("cli-table");
 
 var connection = mysql.createConnection({
@@ -120,7 +120,7 @@ function removeRequest(){
     inquirer.prompt([{
         name: "ID",
         type: "input",
-        message: "what id the id number of the item you would like to remove?"
+        message: "what is the id number of the item you would like to remove?"
     }]).then(function(answer){
         var id = answers.ID;
         removeInventory(id);
