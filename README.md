@@ -12,4 +12,5 @@
  Inquirer
 
  # screen shots:
- [](/Users/saudatukabir/Desktop/ScreenShot2020-05-13 at 2.18.07 PM.png)
+ [](assets/images/bamazon1pg.png)
+ [](assets/images/bamazon2pg.png)
