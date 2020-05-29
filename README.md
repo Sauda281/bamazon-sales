@@ -11,6 +11,7 @@
  Express
  Inquirer
 
- # screen shots:
- [](assets/images/bamazon1pg.png)
- [](assets/images/bamazon2pg.png)
+ # screenshots:
+ ![customer.js](assets/images/bamazon1pg.png)
+ ![manager.js](assets/images/bamazon2pg.png)
+ ![Home Page](screenshots/home.PNG)
